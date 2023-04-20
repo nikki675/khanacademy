@@ -1,0 +1,4 @@
+appactivity1 = org.khanacademy.android.ui.library.MainActivity
+apppackage1 = org.khanacademy.android
+devicename1 = NikkPhone
+plateformname1 = Android
